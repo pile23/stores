@@ -1,0 +1,23 @@
+
+
+
+#findInPage {
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #0D6EFD ;
+}
+
+#btnPretraziRadnje:hover {
+    color: white;
+    background-color: #0d6efd;
+}
+
+/* #spisak {
+   border: 1px solid red;
+   border-radium: 5px;
+   } */
+
+
+
+
+
