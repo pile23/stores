@@ -1,2 +1,2 @@
 # stores
-Search and add stores in yor place
+Add and search stores in yor place
